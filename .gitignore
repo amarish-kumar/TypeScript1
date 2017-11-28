@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/HelloWorldInTypeScript/.vs/HelloWorldInTypeScript/v15
+/HelloWorldInTypeScript/HelloWorldInTypeScript/bin
+/HelloWorldInTypeScript/HelloWorldInTypeScript/obj/Debug
+/HelloWorldInTypeScript/packages
