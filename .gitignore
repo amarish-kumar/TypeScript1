@@ -13,3 +13,11 @@
 /VariablesAndMethodsSample/packages/Microsoft.Net.Compilers.2.1.0
 /VariablesAndMethodsSample/VariablesAndMethodsSample/bin
 /VariablesAndMethodsSample/VariablesAndMethodsSample/obj/Debug
+/Variables/.vs/Variables/v15
+/Variables/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.7
+/Variables/packages/Microsoft.Net.Compilers.2.1.0/tools
+/Variables/packages/Microsoft.Net.Compilers.2.1.0
+/Variables/Variables/bin
+/Variables/Variables/obj/Debug
+*.js
+*.map
