@@ -1,4 +1,4 @@
-﻿export enum Season
+﻿enum Season
 {
     Winter,
     Spring = 1, // can assign integer 
