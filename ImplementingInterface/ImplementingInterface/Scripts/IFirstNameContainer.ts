@@ -1,0 +1,4 @@
+﻿interface IFirstNameContainer
+{
+    FirstName: string;
+}
