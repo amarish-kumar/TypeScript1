@@ -87,6 +87,7 @@
     <TypeScriptCompile Include="Scripts\ArrayVariables.ts" />
     <TypeScriptCompile Include="Scripts\EnumVariables.ts" />
     <TypeScriptCompile Include="Scripts\PlainTypeVariables.ts" />
+    <TypeScriptCompile Include="Scripts\TupleVariables.ts" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
