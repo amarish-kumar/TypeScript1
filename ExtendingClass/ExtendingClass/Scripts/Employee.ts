@@ -21,11 +21,16 @@
     }
 }
 
+// function that takes Person object
+// and displays it within alert dialog
 function PrintPersonFullName(person: Person): void
 {
     alert(person.FullName);
 }
 
+// create Employee object
 let joeDoeEmployee: Person = new Employee(1, "Joe", "Doe");
 
+// call PrintPersonFullName function on
+// the joeDoeEmployee object
 PrintPersonFullName(joeDoeEmployee);
