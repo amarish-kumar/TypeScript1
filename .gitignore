@@ -21,3 +21,7 @@
 /Variables/Variables/obj/Debug
 *.js
 *.map
+/ClassesAndMethods/.vs
+/ClassesAndMethods/ClassesAndProperties/bin
+/ClassesAndMethods/ClassesAndProperties/obj/Debug
+/ClassesAndMethods/packages
