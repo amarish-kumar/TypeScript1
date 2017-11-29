@@ -77,12 +77,14 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Default.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <TypeScriptCompile Include="Scripts\EnumVariables.ts" />
     <TypeScriptCompile Include="Scripts\PlainTypeVariables.ts" />
   </ItemGroup>
   <ItemGroup>
