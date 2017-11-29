@@ -60,6 +60,7 @@
 
 let people: Array<Person>;
 
+// create an array of Person objects
 people = [new Person("Joe", "Doe"), new Person("Jane", "Dane")];
 
 let result: string = "";
