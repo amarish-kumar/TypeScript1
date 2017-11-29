@@ -26,8 +26,13 @@ myString = 5;
 myAny1 = 5; //OK
 
 // OK
-myAny2 == "hello world";
+myAny2 = "hello world"; 
 
 // any can be reassigned any type (like object in C#)
 myAny1 = "Hi";
+
+// casting the two expressions below 
+// are equivalent.
+myAny2 as string;
+(<string>myAny2);
 
