@@ -6,10 +6,12 @@ let myStr = arrayOfStrings[0];
 // compiler error
 arrayOfStrings = [1, 2, 3];
 
-let arrayOfAny: any[] = ["str1", "str2", "str3"];
+// can contain any types like List<object> in C#
+let arrayOfAny: any[] = [1, "str2", false];
 
-// works fine
-arrayOfAny = [1, 2, 3];
+// for any[] reassigning to an array 
+// containing different types works fine
+arrayOfAny = [true, 2, "str3"];
 
 // another way to define array of strings
 // by using Array<string>
