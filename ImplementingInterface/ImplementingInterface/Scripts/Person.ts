@@ -38,7 +38,7 @@
 //let PrintFullName = (person: IFirstNameContainer & ILastNameContainer & IMiddleNameContainer) => ...
 
 // defining a method (function)
-// using error notations
+// using arrow notations
 let PrintFullName = (person: IPerson) =>
 {
     let result: string = "";
